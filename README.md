@@ -2,7 +2,7 @@
 
 Welcome! 👋 This repository contains my LeetCode problem solutions in Python and SQL. I created it to track my progress, practice problem-solving, and share my approach with others preparing for coding interviews.
 
-What You’ll Find Here
+## What You’ll Find Here
 
 Problems solved: Easy, Medium, and Hard
 
