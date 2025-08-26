@@ -16,6 +16,6 @@ Topics covered: Arrays, Strings, Dynamic Programming, Graphs, Database Queries, 
 
 You can also check out my LeetCode account here: https://leetcode.com/u/halpagu/
 
-## Goal
+## Goal2
 
 I hope my solutions help you understand problems on LeetCode and prepare effectively for interviews. Good luck! 🎯
