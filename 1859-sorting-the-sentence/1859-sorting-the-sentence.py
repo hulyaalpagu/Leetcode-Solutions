@@ -4,10 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        words=s.split()
-        sorted_words=[None]*len(words)
-
+        words=s.split() 
+        result=[""]*len(words)
         for word in words:
-            position=int(word[-1])-1
-            sorted_words[position]=word[:-1]
-        return " ".join(sorted_words)
+            num=int(word[-1])
+            result[num-1]=word[:-1]   
+        return " ".join(result)
+            
