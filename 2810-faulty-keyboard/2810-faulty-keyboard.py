@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        text=""
+        text=[]
         for ch in s:
             if ch=='i':
-                text=text[::-1]
+                text.reverse()
             else:
-                text+=ch
-        return text
+                text.append(ch)
+        return "".join(text)
             
